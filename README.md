@@ -13,5 +13,3 @@
 Python 🐍
 Streamlit 🎨
 Have I Been Pwned API 🔍
-🎯 Live Demo
-🚀 Try it on Streamlit Share
