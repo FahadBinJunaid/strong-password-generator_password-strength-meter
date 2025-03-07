@@ -1,0 +1,2 @@
+# strong-password-generator_password-strength-meter
+ 🔐 A Powerful Tool for Secure Passwords! 🔐  A powerful tool to generate strong passwords 🛡️ and measure password strength 📊 using Streamlit.  ✨ Features: ✅ Password Length Validation 🔢 ✅ Uppercase/Lowercase Checks 🔠🔡 ✅ Digit & Special Character Enforcement 🔣 ✅ Breach Detection via Have I Been Pwned API 🕵️‍♂️🔍 ✅ Color-Coded Progress Bar for Visual Feedback 🎨📊  Keep your passwords strong, secure, and safe! 🚀🔑
